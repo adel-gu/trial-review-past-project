@@ -1,0 +1,40 @@
+/* #image{
+    margin: auto;
+    max-width:fit-content;
+    max-height: fit-content;
+
+}
+body{
+    text-align: center;
+}
+li{
+    text-align: left;
+    list-style-position: inside;
+} */
+
+body{
+  text-align: center;
+}
+
+ul {
+  max-width: 50%;
+  margin-inline: auto;
+}
+
+li{
+  text-align: left;
+}
+
+#img-div {
+  text-align: center;
+}
+
+#image {
+  max-width: 100%;
+  margin-inline: auto;
+  display: block;
+}
+
+#img-div {
+  text-align: center;
+}
